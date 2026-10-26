@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- The site's sitemap index. The guide's sitemap (episode pages and more) is rebuilt automatically in the fsfspod/guide repo. -->
+<!-- The site's sitemap index. The guide's sitemap (the home page, episode pages, case pages and more) is rebuilt automatically in the fsfspod/guide repo. sitemap-pages.xml is kept only so the old address still resolves. -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap><loc>https://friendlyskeptic.com/sitemap-pages.xml</loc></sitemap>
   <sitemap><loc>https://friendlyskeptic.com/guide/sitemap.xml</loc></sitemap>
 </sitemapindex>
